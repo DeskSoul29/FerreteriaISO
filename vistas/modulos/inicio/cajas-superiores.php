@@ -15,7 +15,7 @@ $totalClientes = count($clientes);
 $productos = ControladorProductos::ctrMostrarProductos($item, $valor, $orden);
 $totalProductos = count($productos);
 
-?>
+?>	
 
 
 
